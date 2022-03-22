@@ -1,0 +1,96 @@
+.bg-container {
+  padding: 25px;
+  margin: 20px;
+}
+
+.heading-post-job {
+  color: black;
+  font-family: 'Roboto';
+  font-size: 20px;
+  font-weight: 500;
+  margin-bottom: 30px;
+}
+
+.main-heading {
+  color: #00d084;
+  font-family: 'Roboto';
+  font-size: 25px;
+  font-weight: 500;
+  margin-top: 15px;
+}
+
+.heading {
+  color: black;
+  font-family: 'Robot';
+  font-size: 25px;
+}
+
+.input {
+  min-height: 50px;
+  width: 90vh;
+  padding: 20px;
+  font-size: 20px;
+}
+
+.select-contain {
+  min-height: 40px;
+  width: 42vh;
+  font-size: 20px;
+  padding: 20px;
+  margin-right: 6vh;
+}
+
+.option-main {
+  color: #9f9f9f;
+  font-size: 20px;
+}
+
+.option {
+  color: #000000;
+  font-size: 20px;
+}
+
+.textarea {
+  color: #9f9f9f;
+  font-size: 1rem;
+  padding: 20px;
+
+  font-family: 'Roboto';
+  line-height: 1.5em;
+}
+
+.section-contain {
+  display: flex;
+}
+
+.button-contain {
+  display: flex;
+  margin-top: 20px;
+}
+
+.post-button {
+  background-color: #195436;
+  color: #ffffff;
+  padding: 10px;
+  width: 100px;
+  border-radius: 5px;
+  border-width: 0ch;
+  margin-right: 10px;
+}
+
+.post-and-another-button {
+  background-color: #ffffff;
+  color: #195436;
+  border-radius: 5px;
+  border-color: #195436;
+  margin-right: 10px;
+  border-style: solid;
+  padding: 10px;
+}
+
+.cancel-button {
+  background-color: #ffffff;
+  border-color: #ffffff;
+  color: blue;
+  border-width: 0ch;
+}
